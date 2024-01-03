@@ -8,4 +8,5 @@
 Mayank77maruti/Mayank77maruti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Mayank77maruti's GitHub | Dependencies](https://stats.quine.sh/Mayank77maruti/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Mayank77maruti)
 [![An image of @mayank77maruti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank77maruti)](https://holopin.io/@mayank77maruti)
