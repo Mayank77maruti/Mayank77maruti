@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on amazing projects and bring a positive impact on the world.
 - 📫 How to reach me https://www.linkedin.com/in/mayank-mohapatra-697744267/
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank77maruti)
 <!---
 Mayank77maruti/Mayank77maruti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
