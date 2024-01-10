@@ -23,5 +23,3 @@
 <p><img [![An image of @mayank77maruti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank77maruti)](https://holopin.io/@mayank77maruti) /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank77maruti&show_icons=true&locale=en" alt="mayank77maruti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank77maruti&" alt="mayank77maruti" /></p>
