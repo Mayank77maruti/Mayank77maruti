@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/mayank77maruti/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](mailto:mayank.mohapatra7@gmail.com)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
