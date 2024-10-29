@@ -17,7 +17,7 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloak are made from Ikea rug**
 
  </div>
- 
+ <a href="https://gitroll.io/profile/uz6bhIDsU2DT2zKsN5DN80hjtDVF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz6bhIDsU2DT2zKsN5DN80hjtDVF2" alt="GitRoll Profile Badge"/></a>
 <div align="center"> 
   <a href="mailto:mayank.mohapatra7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
