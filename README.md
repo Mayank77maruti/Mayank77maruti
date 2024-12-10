@@ -36,3 +36,4 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 <hr></hr>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Coder_Dashaanan7)
