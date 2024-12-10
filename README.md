@@ -36,4 +36,14 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 <hr></hr>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Coder_Dashaanan7)
+<h2 align="center"> Leetcode Stats </h2>
+<br>
+
+
+<div align="center">
+    <a href="https://leetcard.jacoblin.cool/Coder_Dashaanan7?theme=dark&font=Radio%20Canada&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/Coder_Dashaanan7?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
+  </a>
+</div>
+
+
