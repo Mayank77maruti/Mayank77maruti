@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
+<h3 align="center">Om Namah Shivay</h3>
 
 <br/>
 
