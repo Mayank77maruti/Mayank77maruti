@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Kubernetes, Docker, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](mailto:mayank.mohapatra7@gmail.com)**
 
